@@ -1,0 +1,10 @@
+prop:
+  env: none
+
+---
+spring:
+  config:
+    activate:
+      on-profile: loc
+prop:
+  env: loc
